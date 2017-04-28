@@ -1,9 +1,19 @@
 body{
-  background-color: black;
+  background-image: url("http://www.paintballshop.at/media/image/paintball_at_ul-intro.jpg");
 }
 h1{
   color: red;
+  font-family: 'Ranga', cursive;
+
 }
 h2{
   color: red;
+
+font-family: 'Baloo', cursive;
+}
+button{
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWljuuionqRet3tBc_1EUTTtUCF9BOc-Y10HraHGJy-UFV8MfQug");
+  color: red;
+  font-family: 'Baloo', cursive;
+
 }
