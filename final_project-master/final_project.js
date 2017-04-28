@@ -2,7 +2,7 @@ var namespace = "http://www.w3.org/2000/svg"
 
 function nextpage(){
 document.getElementById('body').setAttribute("style","background: url('http://coolwallpaper.website/wp-content/uploads/2016/11/Best-Planet-Eclipse-Paintball-Wallpaper-Amazing-free-HD-3D-wallpapers-collection-You-can-download-best-3D-desktop-backgrounds.-3D-windows-wallpapers-pc-in-both-widescreen-italia-sofa.jpg');")
-document.getElementById('lang').setAttribute("style","image: url('http://www.ryangreenspan.com/wp-content/uploads/2017/04/NXL2017VegasSun_3214.jpg')")
+document.getElementById('boii').innerHTML = "DYNASTY"
 
 }
 
